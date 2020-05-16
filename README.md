@@ -1,4 +1,6 @@
 # url-parameter-extractor
-TBF - URL Parameter extractor in Python.
+TBC - URL Parameter extractor in Python.
 
-*
+*Thought this was easy, got distracted...still need to finish it*
+
+
